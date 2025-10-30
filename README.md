@@ -1,11 +1,11 @@
 <div align="center">
   <h1>
-    Hi there, I'm Edbert 👋
+    Hi there, I'm Edbert 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 
----
+
 
 ## 💫 About Me
 
@@ -19,7 +19,7 @@ I'm a university student currently diving deep into the world of programming!
 
 > ⭐️ *“Every line of code is a step toward a better future.”*
 
----
+
 
 ## 💻 Tech Stack
 
@@ -30,19 +30,19 @@ I'm a university student currently diving deep into the world of programming!
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Solynixx&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Solynixx's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Solynixx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&theme=jolly&border_radius=25" alt="Solynixx's GitHub Stats"/>
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Solynixx&theme=dark&hide_border=false" alt="Solynixx's GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solynixx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Solynixx's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solynixx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&theme=jolly&border_radius=25&layout=compact" alt="Solynixx's Top Languages"/>
 </p>
 
----
+
 
 ## 🌐 Connect with Me
 
@@ -58,7 +58,7 @@ I'm a university student currently diving deep into the world of programming!
   </a>
 </p>
 
----
+
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
