@@ -25,7 +25,7 @@ I'm a university student currently diving deep into the world of programming!
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,github,html&theme=dark" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=python,mysql,github,html,css&theme=dark" alt="My Skills"/>
   </a>
 </p>
 
