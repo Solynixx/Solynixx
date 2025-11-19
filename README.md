@@ -17,8 +17,7 @@ I'm a university student currently diving deep into the world of programming!
 * 🎨 My hobbies include: **coding, drawing, swimming, gaming, and reading manga**
 * 📚 Always excited to learn new skills
 
-> ⭐️ *“Every line of code is a step toward a better future.”*
-
+⭐️ *“Every line of code is a step toward a better future.”*
 
 
 ## 💻 Tech Stack
